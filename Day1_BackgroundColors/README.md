@@ -3,4 +3,4 @@
 - There are 12 Colors to choose from- <i>red,blue,orange,green,yellow,pink,purple,beige,cyan,gold,silver,brown</i>.</br>
 - All the necessary files of the project are present in this folder.</br>
 
-🕸Link to the website created under this project - 
+🕸Link to the website created under this project - [WebsiteDay1](https://strong-kringle-4a41ee.netlify.app)
