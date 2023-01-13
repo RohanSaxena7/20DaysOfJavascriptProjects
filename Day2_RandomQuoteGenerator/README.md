@@ -3,4 +3,4 @@
 - There are 12 Quotes from which the quote displayed is randomly selected.</br>
 - All the necessary files of the project are present in this folder.</br>
 
-🕸Link to the website created under this project - [WebsiteDay2](https://sprightly-moonbeam-7ddc3b.netlify.app)
+🕸Link to the website created under this project - [WebsiteDay2](https://heroic-cactus-e06194.netlify.app)
