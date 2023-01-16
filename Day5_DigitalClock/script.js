@@ -23,3 +23,5 @@ function calculateTime(){
 
     setTimeout(calculateTime, 100);
 }
+
+
