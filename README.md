@@ -9,3 +9,4 @@ This repository contains 20 projects created in JavaScript within 20 consecutive
 ✔Day4 = Applying a counter that can be increased or decreased by clcking the 'Increase'/'Decrease' button.</br>
 ✔Day5 = Creating a digital clock that shows the current time along with displaying the day.</br>
 ✔Day6 = Creating a grocery list that can be used to add and remove items from it.</br>
+✔Day7 = Creating a calculator that performs basic arithmetic functions.</br>
