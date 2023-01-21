@@ -10,3 +10,5 @@ This repository contains 20 projects created in JavaScript within 20 consecutive
 ✔Day5 = Creating a digital clock that shows the current time along with displaying the day.</br>
 ✔Day6 = Creating a grocery list that can be used to add and remove items from it.</br>
 ✔Day7 = Creating a calculator that performs basic arithmetic functions.</br>
+✔Day8 = Creating an application that allows the user to create and manage sticky notes</br>
+✔Day9 = Creating an Image Carousel with 10 images to circle through</br>
