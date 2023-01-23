@@ -12,4 +12,5 @@ This repository contains 20 projects created in JavaScript within 20 consecutive
 ✔Day7 = Creating a calculator that performs basic arithmetic functions.</br>
 ✔Day8 = Creating an application that allows the user to create and manage sticky notes</br>
 ✔Day9 = Creating an Image Carousel with 10 images to circle through</br>
-✔Day10 = Implementing an Age Calculator that can compute the user's age in Years, Months, Days, Hours, Seconds and Milliseconds.</br>
+✔Day10 = Implementing an Age Calculator that can compute the user's age in Years, Months, Days and more.</br>
+✔Day11 = Creating a To-Do List that allows the user to keep tabs on the tasks they need to complete. </br>
