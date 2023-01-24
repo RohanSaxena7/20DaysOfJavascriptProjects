@@ -14,3 +14,4 @@ This repository contains 20 projects created in JavaScript within 20 consecutive
 ✔Day9 = Creating an Image Carousel with 10 images to circle through</br>
 ✔Day10 = Implementing an Age Calculator that can compute the user's age in Years, Months, Days and more.</br>
 ✔Day11 = Creating a To-Do List that allows the user to keep tabs on the tasks they need to complete. </br>
+✔Day12 = Creating a Rock-Paper-Scissors Game where the player plays against the computer.</br>
