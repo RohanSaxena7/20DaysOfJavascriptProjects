@@ -1,0 +1,37 @@
+body{
+    background: #E5F77D !important;
+    color: #1E000E;
+}
+
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    background-color: #E5F77D;
+    border-radius : 5px;
+    color : #823038;
+    border: 3px solid #1E000E;
+}
+
+#gameDiv{
+    border: 10px solid #1E000E;
+    border-radius: 25px;
+    background-color: #F4F7BE;
+    padding: 5px;
+    width: 72%;
+    height: 90vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+#playerText{
+    color: #823038;
+}
+#computerText{
+    color: #DEBA6F;
+}
+
+
+
