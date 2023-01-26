@@ -3,4 +3,4 @@
 - The user can jump by clicking on the screen, and if the player collides with the monster character, the game is over and an alert is shown to the player. Then the player can restart by clicking the restart button</br>
 - All the necessary files of the project are present in this folder.</br>
 
-🕸Link to the website created under this project - [WebsiteDay13](https://beautiful-bombolone-a156ff.netlify.app)
+🕸Link to the website created under this project - [WebsiteDay13](https://funny-moonbeam-b3449a.netlify.app/)
