@@ -15,3 +15,5 @@ This repository contains 20 projects created in JavaScript within 20 consecutive
 ✔Day10 = Implementing an Age Calculator that can compute the user's age in Years, Months, Days and more.</br>
 ✔Day11 = Creating a To-Do List that allows the user to keep tabs on the tasks they need to complete. </br>
 ✔Day12 = Creating a Rock-Paper-Scissors Game where the player plays against the computer.</br>
+✔Day13 = Creating a Jumping Game where the player has to click in order to make the player character jump and avoid the monster.</br>
+✔Day14 = Creating an analog clock that shows the current time in hours, minutes and seconds.</br>
