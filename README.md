@@ -19,3 +19,4 @@ This repository contains 20 projects created in JavaScript within 20 consecutive
 ✔Day14 = Creating an analog clock that shows the current time in hours, minutes and seconds.</br>
 ✔Day15 = Creating a Flappy Bird game where the player has to control the bird by clicking</br>
 ✔Day16 = Creating a tip calculator that calculates the tip to be provided on a bill amount.</br>
+✔Day17 = Implementing a Password Generator that generates random passwords based upon the parameters given.</br>
