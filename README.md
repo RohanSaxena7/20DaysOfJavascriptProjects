@@ -21,3 +21,5 @@ This repository contains 20 projects created in JavaScript within 20 consecutive
 ✔Day16 = Creating a tip calculator that calculates the tip to be provided on a bill amount.</br>
 ✔Day17 = Creating a Password Generator that generates random passwords based upon the parameters given.</br>
 ✔Day18 = Implementing a website featuring a Weather app that can tell the current weather of a location. </br>
+✔Day19 = Creating a timer that allows the user to measure specific time intervals. </br>
+✔Day20 = Creating a music player that allows the user to play/pause and cycle through different songs. </br>
